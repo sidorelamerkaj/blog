@@ -221,6 +221,9 @@ h2 {
   margin-bottom: 0;
 }
 
+#share-buttons a:hover{
+  text-decoration: none;
+}
 /* Pagination */
 .pager {
   margin-bottom: 60px;
