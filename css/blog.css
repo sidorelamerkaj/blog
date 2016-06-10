@@ -331,6 +331,12 @@ padding-bottom: -20px;
   text-align: center;
 }
 
+.sticky-footer{
+  position: relative;
+  width: 100%;
+  bottom: 0;
+}
+
 /* Medium devices (desktops, 992px and up) */
 @media (max-width: 991px) {
   #subscribe-box h4{
